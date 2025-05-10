@@ -6,7 +6,8 @@ import SubmissionDetails from './SubmissionDetails.jsx';
 import SubmissionStats from './SubmissionStats';
 import ExportOptions from './ExportOptions';
 import LoadingSpinner from '../common/LoadingSpinner';
-import { Tabs, Tab } from '../common/Tabs';
+import { Tab } from '../common/Tabs';
+import Tabs from '../common/Tabs';
 import EmptyState from '../common/EmptyState';
 
 /**
